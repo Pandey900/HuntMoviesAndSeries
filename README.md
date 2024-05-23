@@ -1,0 +1,1 @@
+Users can easily track the latest and upcoming movies and series accroding to their interest, they select the genre as per there taste and see the latest, oldest and upcoming movies and series we are also going to add the streaming platforms in this
